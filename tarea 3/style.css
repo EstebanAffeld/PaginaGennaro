@@ -1,0 +1,36 @@
+#logo {
+    width: 20%;
+    height: 20%;
+}
+body {
+
+    background-color: rgba(0, 0, 0, 0.883);
+    color: white;
+    padding: 0;
+    margin:  0;
+    background-image: url("assets/logo.png");
+    background-size: cover;
+    
+}
+.caja {
+   
+    border: 2px solid blueviolet;
+    background-color: rgba(0, 0, 0, 0.5);
+    color: azure;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+
+}
+
+.caja2 {
+    border: 2px solid blueviolet;
+    background-color: rgba(0, 0, 0, 0.733);
+    padding: 2%;    
+}
+
+.formulario {
+
+    display:block
+}
