@@ -5,7 +5,9 @@ background-size: cover;
 padding: 0%;
 margin: 0%;
 }
-
+.table {
+    color: white !important;
+}
 .abs-center {
     
     display: flex;
